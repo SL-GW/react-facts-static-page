@@ -5,13 +5,24 @@
 .grid {
   display: flex;
   justify-content: left;
+  padding: 30px 0px;
 }
 
 h2 {
   color: #04defd;
+  font-weight: bold;
+  font-size: 22px;
+  margin: 0;
 }
 
 h3 {
-  margin-left: 1000px;
-  color: #d8e7ec;
+  color: #deebf8;
+  margin: 0px 0px 0px 1000px;
+  font-weight: 600px;
+}
+
+.App-logo {
+  height: 28px;
+  pointer-events: none;
+  padding-left: 30px;
 }
