@@ -1,3 +1,9 @@
+.App {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 .App-logo {
   height: 10vmin;
   pointer-events: none;

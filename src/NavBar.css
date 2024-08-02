@@ -1,0 +1,17 @@
+.NavBar {
+  background: #21222a;
+}
+
+.grid {
+  display: flex;
+  justify-content: left;
+}
+
+h2 {
+  color: #04defd;
+}
+
+h3 {
+  margin-left: 1000px;
+  color: #d8e7ec;
+}
