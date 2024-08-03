@@ -3,6 +3,7 @@
   font-size: 40px;
   margin: 57px 0px 46px 30px;
   font-weight: bold;
+  letter-spacing: -0.05em;
 }
 
 li {
@@ -10,4 +11,9 @@ li {
   font-size: 16px;
   margin-bottom: 20px;
   margin-left: 50px;
+}
+
+li::marker {
+  color: #04defd;
+  font-size: 1.5em;
 }

@@ -10,7 +10,7 @@ export default function Facts() {
         <li>Was originally created by Jordan Walke</li>
         <li>Has well over 100K stars on Github</li>
         <li>Is maintained by Facebook</li>
-        <li>Powers thousnand of enterprise apps, including mobile apps</li>
+        <li>Powers thousand of enterprise apps, including mobile apps</li>
       </ul>
     </div>
   );
