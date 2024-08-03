@@ -1,4 +1,5 @@
 import React from "react";
+import "./Facts.css";
 
 export default function Facts() {
   return (

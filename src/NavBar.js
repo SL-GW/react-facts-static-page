@@ -8,7 +8,6 @@ export default function NavBar() {
       <div className="grid">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>React Facts</h2>
-
         <h3>React Course - Project One</h3>
       </div>
     </div>
