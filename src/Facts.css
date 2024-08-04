@@ -1,3 +1,7 @@
+.Facts {
+  width: 100%;
+}
+
 .Facts h1 {
   color: #ffffff;
   font-size: 40px;
@@ -16,4 +20,19 @@ li {
 li::marker {
   color: #04defd;
   font-size: 1.5em;
+}
+
+.grid {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.logo-position {
+  max-width: 100%;
+  height: auto;
+  align-self: flex-start;
+  margin-left: 750px;
 }
